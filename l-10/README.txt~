@@ -1,0 +1,21 @@
+UGA ID: 811692192
+Lindsay Bui
+
+To compile:
+$ make
+
+To clean:
+$ make clean
+
+To run:
+$ cd
+$ cd ~
+$ cd mydir
+$ cd ..
+$ cd /usr/bin
+$ cd ~/mydir
+
+$ cat file1.txt file2.txt
+
+$ COMMAND < input.txt
+$ COMMAD

@@ -1,0 +1,17 @@
+Bui-Lindsay-p2:
+total 68
+-rw-r--r--. 1 myid   27 Nov  3 21:35 file1.txt
+-rw-r--r--. 1 myid   18 Nov  3 21:02 file1.txt~
+-rw-r--r--. 1 myid   40 Nov  3 21:35 file2.txt
+-rw-r--r--. 1 myid  105 Nov  3 21:07 file2.txt~
+-rw-r--r--. 1 myid 4252 Nov  3 21:50 head.c
+-rw-r--r--. 1 myid 4264 Nov  3 21:48 head.c~
+-rw-r--r--. 1 myid  392 Nov  3 21:27 makefile
+-rw-r--r--. 1 myid   18 Nov  3 21:53 output.txt
+-rw-r--r--. 1 myid 2250 Nov  3 21:55 README.txt
+-rw-r--r--. 1 myid 2164 Nov  3 21:37 README.txt~
+-rw-r--r--. 1 myid  785 Nov  3 21:56 rec5723
+-rw-r--r--. 1 myid    0 Nov  3 21:56 rec7535
+-rw-r--r--. 1 myid 6589 Nov  3 21:49 wc.c
+-rw-r--r--. 1 myid 6621 Nov  3 21:48 wc.c~
+/home/myid/ltb23581/cs1730/Bui-Lindsay-p2:/home/myid/csci-1730
